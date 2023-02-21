@@ -1,0 +1,15 @@
+/Users/hoangthanh/Documents/CS23-Toi/bin/Debug/net7.0/CS23-Toi
+/Users/hoangthanh/Documents/CS23-Toi/bin/Debug/net7.0/CS23-Toi.deps.json
+/Users/hoangthanh/Documents/CS23-Toi/bin/Debug/net7.0/CS23-Toi.runtimeconfig.json
+/Users/hoangthanh/Documents/CS23-Toi/bin/Debug/net7.0/CS23-Toi.dll
+/Users/hoangthanh/Documents/CS23-Toi/bin/Debug/net7.0/CS23-Toi.pdb
+/Users/hoangthanh/Documents/CS23-Toi/obj/Debug/net7.0/CS23-Toi.csproj.AssemblyReference.cache
+/Users/hoangthanh/Documents/CS23-Toi/obj/Debug/net7.0/CS23-Toi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoangthanh/Documents/CS23-Toi/obj/Debug/net7.0/CS23-Toi.AssemblyInfoInputs.cache
+/Users/hoangthanh/Documents/CS23-Toi/obj/Debug/net7.0/CS23-Toi.AssemblyInfo.cs
+/Users/hoangthanh/Documents/CS23-Toi/obj/Debug/net7.0/CS23-Toi.csproj.CoreCompileInputs.cache
+/Users/hoangthanh/Documents/CS23-Toi/obj/Debug/net7.0/CS23-Toi.dll
+/Users/hoangthanh/Documents/CS23-Toi/obj/Debug/net7.0/refint/CS23-Toi.dll
+/Users/hoangthanh/Documents/CS23-Toi/obj/Debug/net7.0/CS23-Toi.pdb
+/Users/hoangthanh/Documents/CS23-Toi/obj/Debug/net7.0/CS23-Toi.genruntimeconfig.cache
+/Users/hoangthanh/Documents/CS23-Toi/obj/Debug/net7.0/ref/CS23-Toi.dll
